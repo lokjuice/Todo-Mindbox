@@ -1,0 +1,13 @@
+.textInput:focus {
+	outline: 0;
+}
+
+.textInput {
+	font-size: 25px;
+
+	margin: 15px;
+	margin-left: 60px;
+	width: 80%;
+
+	border: 0;
+}

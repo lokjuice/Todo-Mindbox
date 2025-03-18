@@ -1,0 +1,11 @@
+.container {
+	display: flex;
+	justify-content: center;
+	position: relative;
+	margin: 15vh;
+}
+
+.content {
+	display: grid;
+	place-items: center;
+}

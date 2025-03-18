@@ -1,0 +1,23 @@
+.listItem {
+	display: flex;
+	align-items: center;
+
+	border-bottom: 1px solid black;
+	box-sizing: border-box;
+}
+
+.listItem:hover {
+	cursor: pointer;
+	background-color: rgb(243, 243, 243);
+}
+
+.finished {
+	width: 20px;
+	height: 20px;
+	margin: 20px;
+
+	background-color: gray;
+
+	border: 1px solid gray;
+	border-radius: 100%;
+}

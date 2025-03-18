@@ -1,0 +1,29 @@
+.footer {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+
+	margin: 20px 60px;
+	
+	font-size: 20px;
+	color: gray;
+}
+
+button {
+	font-size: 20px;
+	border: 0;
+	padding: 0;
+	background-color: white;
+	cursor: pointer;
+	color: gray;
+}
+
+button:hover {
+	color: rgb(65, 65, 65);
+}
+
+.buttons {
+	display: flex;
+
+	gap: 20px;
+}
